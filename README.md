@@ -1,8 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Foodie Web Page
 
-Currently, two official plugins are available:
+I made this for my resume.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run dev
+```
+
+
+## Demo
+
+
+
+
+## Screenshots
+
+![Screenshot 2024-01-30 174014](https://github.com/SheikhSameer000/Foodie/assets/146000453/ac56c676-16d7-4661-8756-d859bd7f5545)
+![Screenshot 2024-01-30 174104](https://github.com/SheikhSameer000/Foodie/assets/146000453/f63ea74f-fc71-4a5e-8661-0be1caeb6c9b)
+![Screenshot 2024-01-30 174129](https://github.com/SheikhSameer000/Foodie/assets/146000453/eca064ba-9369-4a98-9fef-1e9b8880d321)
+![Screenshot 2024-01-30 174152](https://github.com/SheikhSameer000/Foodie/assets/146000453/7c6e1635-e889-499e-933b-9be8070323d4)
+
+
+
+## Features
+
+- Light/dark mode toggle
