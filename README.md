@@ -1,4 +1,3 @@
-# React + Vite
 
 # Foodie Web Page
 
@@ -12,11 +11,6 @@ To deploy this project run
 ```bash
   npm run dev
 ```
-
-
-## Demo
-
-
 
 
 ## Screenshots
