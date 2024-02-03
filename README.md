@@ -12,6 +12,9 @@ To deploy this project run
   npm run dev
 ```
 
+## Features
+
+- Light/dark mode toggle
 
 ## Screenshots
 
@@ -22,6 +25,4 @@ To deploy this project run
 
 
 
-## Features
 
-- Light/dark mode toggle
