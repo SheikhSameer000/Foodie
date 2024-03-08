@@ -1,7 +1,7 @@
 
 # Foodie Web Page
 
-I made this for my resume. It have animations and dark to light mode button
+I made this website UI for my resume
 
 
 ## Deployment
